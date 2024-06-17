@@ -1,5 +1,0 @@
-Title of work: some name
-Link to work: link
-Revision: rev 1.0
-License of the work: foo
-Creator names: bar
