@@ -1,8 +1,13 @@
 created_by: nerdalert
 domain: dfsgs
 task_description: dfg
+document:
+  repo: https://github.com/nerdalert/instructlab-knowledge-docs
+  commit: 798136cd99c104ce392951b2d1f7e675e91b66c7
+  patterns:
+    - git-examples-20240621T012927676.md
 seed_examples:
-  - question: dsf
+  - question: dsf-12345
     answer: hg
   - question: wrt
     answer: wtrr
@@ -12,8 +17,3 @@ seed_examples:
     answer: 4f
   - question: 54h3
     answer: '254'
-document:
-  repo: https://github.com/nerdalert/instructlab-knowledge-docs
-  commit: 798136cd99c104ce392951b2d1f7e675e91b66c7
-  patterns:
-    - git-examples-20240621T012927676.md
