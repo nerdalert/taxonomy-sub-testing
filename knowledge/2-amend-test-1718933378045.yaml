@@ -1,11 +1,12 @@
 created_by: nerdalert
-domain: dfsgs
-task_description: dfg
+domain: domain info
+task_description: commit title-1
+task_details: commit-msg-2
 document:
   repo: https://github.com/nerdalert/instructlab-knowledge-docs
-  commit: 798136cd99c104ce392951b2d1f7e675e91b66c7
+  commit: b29ea7b5370ff7a00237382afdf617a1050b893d
   patterns:
-    - git-examples-20240621T012927676.md
+    - git-examples-20240622T043633425.md
 seed_examples:
   - question: dsf-54321
     answer: hg
